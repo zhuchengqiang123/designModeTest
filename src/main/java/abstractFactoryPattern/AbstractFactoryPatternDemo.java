@@ -1,7 +1,7 @@
 package abstractFactoryPattern;
 
 /**
- * 描述：
+ * 描述：抽象工厂模式
  *
  * @author chengqiang_zhu
  * @date 2022/10/9

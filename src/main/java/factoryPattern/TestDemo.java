@@ -1,7 +1,7 @@
 package factoryPattern;
 
 /**
- * 描述：
+ * 描述： 工厂模式
  *
  * @author chengqiang_zhu
  * @date 2022/10/9
