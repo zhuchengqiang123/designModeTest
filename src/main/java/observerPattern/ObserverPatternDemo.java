@@ -1,7 +1,7 @@
 package observerPattern;
 
 /**
- * 描述：
+ * 描述： 观察者模式
  *
  * @author chengqiang_zhu
  * @date 2022/10/9
