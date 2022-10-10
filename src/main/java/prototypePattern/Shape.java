@@ -25,6 +25,7 @@ public abstract class Shape implements Cloneable {
         this.id = id;
     }
 
+    @Override
     public Object clone() {
         Object clone = null;
         try {
